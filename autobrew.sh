@@ -213,7 +213,7 @@ main() {
 
     term_list=""
 
-    cask_list="visual-studio-code bluesnooze aldente lulu maccy macmediakeyforwarder spotify teamviewer tor-browser tailscale docker"
+    cask_list="visual-studio-code bluesnooze aldente lulu maccy macmediakeyforwarder spotify teamviewer tor-browser tailscale docker discord warp"
     clear
     term_colors
     script_info
