@@ -6,9 +6,9 @@ set -o pipefail
 # Function to output details of script.
 script_info() {
     cat <<EOF
-                                                    
+
 Name:           autobrew.sh
-Description:    Automate the installation of macOS 
+Description:    Automate the installation of macOS
                 applications and packages using homebrew
 Author:         Mark Bradley
 Requirements:   Command Line Tools (CLT) for Xcode
@@ -207,12 +207,13 @@ brew_cleanup() {
 
 # One function to rule them all.
 main() {
-    # Customise the following list variables (tap_list, term_list and cask_list) 
+    # Customise the following list variables (tap_list, term_list and cask_list)
     # Leave list blank or comment out the list if not required.
     tap_list="homebrew/cask-fonts"
-    term_list="git htop wget curl tmux"
-    cask_list="the-unarchiver vlc visual-studio-code google-chrome \
-    firefox adobe-acrobat-reader malwarebytes font-fira-code"
+
+    term_list=""
+
+    cask_list="visual-studio-code bluesnooze aldente lulu maccy macmediakeyforwarder spotify teamviewer tor-browser tailscale docker"
     clear
     term_colors
     script_info
