@@ -18,7 +18,7 @@ Homebrew does require the Xcode commandline tools. Use the command `xcode-select
 
 #### To run the script direct you can use `curl` or `wget` (if already installed) with one of the following commands -  
 
-`bash -c "$(curl -fsSL https://raw.githubusercontent.com/bradsec/autobrew/main/autobrew.sh)"`
+`bash -c "$(curl -fsSL https://raw.githubusercontent.com/jakob-sa/autobrew/main/autobrew.sh)"`
   
 `bash -c "$(wget -O- https://raw.githubusercontent.com/bradsec/autobrew/main/autobrew.sh)"`
 
