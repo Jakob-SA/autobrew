@@ -217,7 +217,8 @@ main() {
     lulu maccy macmediakeyforwarder spotify
     teamviewer tor-browser tailscale docker
     discord warp iina battery
-    visual-studio-code
+    visual-studio-code mac-mouse-fix background-music
+    alt-tab
 
     "
     clear
