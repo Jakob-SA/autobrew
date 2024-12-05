@@ -218,7 +218,7 @@ main() {
     teamviewer tor-browser tailscale docker
     discord warp iina battery
     visual-studio-code mac-mouse-fix background-music
-    alt-tab
+    alt-tab bluesnooze
 
     "
     clear
