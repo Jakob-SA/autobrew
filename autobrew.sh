@@ -214,12 +214,9 @@ main() {
     term_list=""
 
     cask_list="
-    bluesnooze aldente
     lulu maccy macmediakeyforwarder spotify
     teamviewer tor-browser tailscale docker
-    discord warp vlc
-
-
+    discord warp iina battery
     visual-studio-code
 
     "
